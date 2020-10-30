@@ -1,4 +1,4 @@
-#How to setup this
+# How to setup this
 
 1. Clone or download this repo
 2. Put the entire folder into a webserver environment (e.g. Apache supporting PHP)
